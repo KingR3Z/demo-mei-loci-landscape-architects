@@ -79,7 +79,7 @@ export const client = {
 
   // Reviews — placeholder
   reviews: [
-    { name: "Nicholas James", rating: 5, text: "Wonderful consultants to work with - always spectacular results! ", date: "8 years ago" },
+    { name: "Nicholas James", rating: 5, text: "Wonderful consultants to work with - always spectacular results!", date: "8 years ago" },
   ] as { name: string; rating: number; text: string; date: string; badge?: string }[],
 
   // SEO
